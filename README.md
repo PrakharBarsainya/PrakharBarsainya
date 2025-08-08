@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔧 Currently working on **automation scripts, system tools, and full-stack projects**
+- 🔧 Currently working on **DSA, system tools, and full-stack projects**
 - 💡 Interested in **Python, Web Development, Databases, and Data Analysis**
 - 🌱 Always learning and building projects to sharpen my skills
 - 💬 Ask me about anything related to **Python, Git, Bash, or general dev tools**
@@ -44,6 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=PrakharBarsainya&show_icons=true&theme=tokyonight" alt="PrakharBarsainya stats"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrakharBarsainya&theme=tokyonight" alt="PrakharBarsainya streak"/>
+
 </p>
 
 ---
